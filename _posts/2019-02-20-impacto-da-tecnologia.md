@@ -34,7 +34,7 @@ A estrutura deste trabalho é organizada da seguinte maneira: a próxima seção
 
 ## 2. REVISÃO DE LITERATURA
 
-  ### 2.1. Revisão Teórica
+  ## 2.1. Revisão Teórica
 
 A preocupação com o efeito da inovação na vida dos trabalhadores parte desde os anos de 1589 quando a Rainha da Inglaterra na época, Elizabeth I, proibiu a implementação de uma invenção de Willian Lee, uma máquina de confecção de malhas, pois estava preocupada com o impacto que ela causaria no mercado de trabalho, segundo ela: "Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars” (ACEMOGLU; ROBINSON, 2012, p. 182f).  Segundo Schumpeter (1962) apud (FREY; OSBORNE, 2013), não foi a falta de ideias que impossibilitaram o desenvolvimento econômico, mas sim interesses de poderosos grupos em manter o sistema econômico e social da maneira que se encontrava com medo de que uma mudança poderia ocorrer na perca de privilégios.
 
@@ -63,7 +63,7 @@ De acordo com Vivarelli (2007) e Pianta (2004) pode-se dizer que a dinâmica est
 Diversos autores, Pianta (2004), Selan et al. (2009), Cirillo (2016), Autor; Katz e Krueguer (1998), debatem sobre o impacto da inovação na escolaridade. Acemoglu (2002) realizou uma revisão desta literatura argumentando que existe um viés da mudança tecnológica a favor dos trabalhadores mais qualificados, ocorrendo uma substituição dos trabalhadores com menor escolaridade e aumentando a desigualdade salarial. Segundo Braverman (1974) apud (PIANTA, 2004) de fato, uma forte complementariedade entre tecnologia e escolaridade foi uma característica presente na maioria do século XX, quando a inovação tinha um viés de qualificação, contrastando com o viés de desqualificação típico do século XIX, quando a mecanização levou à desqualificação dos artesãos. Pianta (2004) alega que os empregos não qualificados, na Europa, estão diminuindo em termos absolutos ou crescendo lentamente nos EUA, enquanto que a criação dos empregos qualificados está em rápida ascensão na maioria dos países e que este efeito está atrelado a maiores esforços inovadores.
 
 
-  ### 2.2. Revisão Empírica
+  ## 2.2. Revisão Empírica
   
   Muitos autores, Autor; Katz e Krueguer (1998), Cirillo (2016), Lachenmaier e Rottmann (2011), Selan et al. (2009), Nakatani-Macedo et al. (2016) encontraram um efeito positivo entre inovação e emprego. Segundo Selan et al. (2009), que mediu o impacto da inovação tecnológica sobre o emprego, renda e nível de qualificação dos trabalhadores da indústria paulista no período de 1997 a 2003, utilizando o método de PSM (Propense Score Matching), foi possível verificar um efeito positivo da inovação sobre o emprego e a qualificação do trabalhador. Isso mostra que ainda, no século XXI, existe uma forte complementariedade entre tecnologia e viés de qualificação.
 
@@ -78,7 +78,7 @@ Lachenmaier e Rottmann (2011) estimaram o efeito da inovação no mercado de tra
 
 ## 3. METODOLOGIA
 
-  ### 3.1. Dados
+  ## 3.1. Dados
 
 Este trabalho tem sua base elaborada mediante o sistema IBGE de recuperação automática – SIDRA , com dados obtidos das Pesquisas de Inovação Tecnológica realizadas pelo IBGE, PINTEC (2000, 2003, 2005, 2008, 2011, 2014), trienalmente com o objetivo de fornecer informações para a construção de indicadores das atividades de inovação das empresas brasileiras e complementado com informações obtidas no Cadastro Central de Empresas (CEMPRE) e na Relação Anual de Informações Sociais (RAIS). Na tabela 1 é apresentado as fontes das variáveis utilizadas no trabalho.
 
@@ -102,7 +102,7 @@ TABELAAA 2
 
 Os setores analisados e que portanto definem o âmbito da pesquisa, foram os das seções B e C (Indústrias extrativas e Indústrias de transformação, respectivamente), as divisões de serviços selecionados 61 (Telecomunicações), 62 (Atividades dos serviços de  tecnologia da informação) e 72 (Pesquisa e Desenvolvimento), além da combinação de divisão e grupo de serviços 18 + 58 + 59.2 (Impressão e reprodução de gravações; Edição e edição integrada à impressão; e Atividades de gravação de som e de edição de música), caracterizando assim 27 setores.
 
-  ### 3.2. Método
+  ## 3.2. Método
   
 Para mensurar o efeito da inovação no nível de emprego, o método de mínimos quadrados ordinários (MQO) não foi possível de ser utilizado, pois este assume que a variável dependente tenha distribuição normal, enquanto que as variáveis dependentes analisadas neste trabalho não possuem distribuição normal, conforme Gráfico 1, pois estas pertencem ao conjunto de números positivos e inteiros. Por conta disto, segundo Wooldrige (2015), variáveis como o número de trabalhadores no setor “x”, número de trabalhadores com ensino fundamental completo, número de trabalhadores do sexo feminino... são caracterizadas também como variáveis de contagem e o método utilizado para análise é o de Poisson.
 
@@ -250,8 +250,3 @@ WOOLDRIDGE, Jeffrey M.; Introdução à econometria: uma abordagem moderna / Jef
 M. Wooldridge; tradução José Antônio Ferreira; revisão técnica Galo Carlos Lopez Noriega. São Paulo: Cengage Learning, 2015.
 
 WU, Fulong. Intrametropolitan FDI firm location in Guangzhou, China A Poisson and negative binomial analysis. The Annals of Regional Science, v. 33, n. 4, p. 535-555, 1999.
-
-
-
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*MAeS-4fEc0Y7T4VB.jpg" caption="iOS" %}
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*nF_H2-8oTY7C0a54.png" caption="Android" %}
