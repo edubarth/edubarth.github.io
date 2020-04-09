@@ -1,3 +1,11 @@
+- name: Data Scientist
+  percentage: 90
+  color: dark
+
+- name: Data Analyst
+  percentage: 90
+  color: secondary
+
 - name: Análise de dados
   percentage: 90
   color: info
@@ -8,16 +16,16 @@
   
 - name: Metodologia Científica
   percentage: 90
-  color: pink
+  color: danger
   
 - name: Fundamentos em matemática
   percentage: 90
-  color: red
+  color: warning
   
 - name: Econometria
   percentage: 90
-  color: blue
+  color: light
   
 - name: Estatística
   percentage: 90
-  color: gray
+  color: 1da1f2
