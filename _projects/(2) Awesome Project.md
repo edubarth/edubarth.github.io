@@ -1,20 +1,17 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Prevendo as notas de matemática do ENEM
+tools: [Python, Random Forest]
+image: https://enem2020inep.com.br/wp-content/uploads/nota-enem.jpg
+description: Modelos utilizados -> Random Forest; AdaBoost; Regressão Linear; Decision Trees
 ---
 
-# The Movies Project
+# Prevendo as notas de matemática do ENEM
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+<p>Esse foi o projeto que utilizei no desafio da Codenation, para descobrir as notas de matemática do ENEM de 2016.
+<p>Testei os quatros modelos acima e, através do método de "mean square absolute", o modelo que melhor preveu as notas foi o de Random Forest.
+<p>O desafio principal foi realizar a limpeza da base de dados, e estrutura-la de modo que facilitasse a aplicação dos modelos.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://github.com/edubarth/Previsao_notas_matematica_ENEM" text="Veja o código" %}
 </p>
