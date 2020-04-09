@@ -8,5 +8,5 @@ weight: 1
 # **EXPERIÊNCIA**
 
 <div class="row">
-{% include experiencia/experiencia.html %}
+{% include experiencia/index.html %}
 </div>
