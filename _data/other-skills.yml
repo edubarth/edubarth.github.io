@@ -1,7 +1,23 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Análise de dados
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
+- name: Raciocínio Lógico
   percentage: 90
   color: success
+  
+- name: Metodologia Científica
+  percentage: 90
+  color: pink
+  
+- name: Fundamentos em matemática
+  percentage: 90
+  color: red
+  
+- name: Econometria
+  percentage: 90
+  color: blue
+  
+- name: Estatística
+  percentage: 90
+  color: gray
