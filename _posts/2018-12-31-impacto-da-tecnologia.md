@@ -6,7 +6,9 @@ color:
 description: Este trabalho explora o impacto da inovação dos setores industriais brasileiros no mercado de trabalho. Esta literatura é abordada internacionalmente quanto nacionalmente, com resultados ambíguos...
 ---
 
-Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
+Autor: Eduardo Luís Bartholomay.
+
+Referenciar: BARTHOLOMAY, Eduardo Luís. O impacto da inovação no mercado de trabalho: uma análise para o Brasil de 2000 a 2014. 2018. Monografia – Graduação em Ciências Econômicas. Universidade Federal de Pelotas, Pelotas. 
 
 ## Resumo
 
