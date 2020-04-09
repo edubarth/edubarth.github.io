@@ -1,7 +1,11 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Prevendo as notas de matemática do ENEM
+tools: [Python, Random Forest]
+image: https://enem2020inep.com.br/wp-content/uploads/nota-enem.jpg
+description: <p>Modelos utilzados: Random Forest; AdaBoost; Regressão Linear; Decision Trees.
+<p>Esse foi o algoritmo que utilizei no desafio da Codenation, para descobrir as notas de matemática do ENEM de 2016.
+<p>Testei os 4 modelos acima e, através do método de "mean square absolute", o modelo que melhor preveu as notas foi o de Random Forest.
+<p>O desafio principal foi realizar a limpeza da base de dados, e estrutura-la de modo que facilitasse a aplicação dos modelos.
+<p>
+external_url: https://github.com/edubarth/Previsao_notas_matematica_ENEM
 ---
