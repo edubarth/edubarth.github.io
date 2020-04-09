@@ -1,6 +1,6 @@
 ---
 title: impacto da tecnologia no mercado de trabalho. uma análise de âmbito nacional para o período de 2008 a 2014.
-tags: [Inovação. Mercado de trabalho. Viés de qualificação. Gênero]
+tags: [Inovação, Mercado de trabalho, Viés de qualificação, Gênero]
 style: 
 color: 
 description: Este trabalho explora o impacto da inovação dos setores industriais brasileiros no mercado de trabalho. Esta literatura é abordada internacionalmente quanto nacionalmente, com resultados ambíguos...
