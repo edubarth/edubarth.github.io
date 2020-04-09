@@ -3,7 +3,7 @@ title               : Eduardo Bartholomay
 description         : >-
                       "Transformar dados em informação"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : edubarth/edubarth.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -22,15 +22,15 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Eduardo Luís Bartholomay
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://www.dropbox.com/s/qmg9sl8z20aqrja/mi.jpg?dl=0
 # behance           : your_username
 # dribbble          : your_username
   email             : elbartholomay@gmail.com
 # facebook          : your_username
   github            : https://github.com/edubarth
 # gitlab            : your_username
-# instagram         : your_username
-  linkedin          : your_username
+  instagram         : https://www.instagram.com/edubarth
+  linkedin          : https://www.linkedin.com/in/elbartholomay/
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
