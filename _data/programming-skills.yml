@@ -12,4 +12,8 @@
   
 - name: Stata
   percentage: 90
-  color: green
+  color: info
+  
+- name: SQL
+  percentage: 40
+  color: secondary
