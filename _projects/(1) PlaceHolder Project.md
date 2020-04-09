@@ -8,3 +8,8 @@ description: Algoritmo utilizado para realizar a implementação de um modelo AR
 # Implementando o modelo ARIMA para prever o preço do Bitcoin
 
 Esse algoritmo utilizei para prever o preço do Bitcoin. O obetivo foi, além de prever o preço, utilizar alguma das técnicas que foram apresentadas nas aulas de Econometria II, no terceiro trimestre do mestrado.
+
+
+<p class="text-center">
+{% include elements/button.html link="https://github.com/edubarth/Implementando-ARIMA-em-Bitcoin-com-R" text="Veja o código" %}
+</p>
