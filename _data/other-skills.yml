@@ -24,7 +24,7 @@
   
 - name: Econometria
   percentage: 90
-  color: light
+  color: dark
   
 - name: Estatística
   percentage: 90
