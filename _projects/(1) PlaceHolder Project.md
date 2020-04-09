@@ -1,14 +1,10 @@
 ---
-name: Prevendo as notas de matemática do ENEM
-tools: [Python, Random Forest]
-image: https://enem2020inep.com.br/wp-content/uploads/nota-enem.jpg
-description: Modelos utilzados > Random Forest; AdaBoost; Regressão Linear; Decision Trees.
-
-external_url: https://github.com/edubarth/Previsao_notas_matematica_ENEM
+name: Implementando o modelo ARIMA para prever o preço do Bitcoin
+tools: [R Studio, ARIMA]
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTZXWCGeiwJb5rFadBkoSt_ApFEkScqdqY1GH_YkFtoPIVSnyTK&usqp=CAU
+description: Algoritmo utilizado para realizar a implementação de um modelo ARIMA no R studio.
 ---
 
-# Prevendo as notas de matemática do ENEM
+# Implementando o modelo ARIMA para prever o preço do Bitcoin
 
-Esse foi o algoritmo que utilizei no desafio da Codenation, para descobrir as notas de matemática do ENEM de 2016.
-Testei os 4 modelos acima e, através do método de "mean square absolute", o modelo que melhor preveu as notas foi o de Random Forest.
-O desafio principal foi realizar a limpeza da base de dados, e estrutura-la de modo que facilitasse a aplicação dos modelos.
+Esse algoritmo utilizei para prever o preço do Bitcoin. O obetivo foi, além de prever o preço, utilizar alguma das técnicas que foram apresentadas nas aulas de Econometria II, no terceiro trimestre do mestrado.
