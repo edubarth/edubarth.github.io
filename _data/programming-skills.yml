@@ -1,11 +1,15 @@
-- name: HTML5/CSS3
+- name: Excel
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Python
+  percentage: 60
   color:
 
-- name: Python
-  percentage: 70
+- name: R Studio
+  percentage: 50
   color: dark
+  
+- name: Stata
+  percentage: 90
+  color: green
