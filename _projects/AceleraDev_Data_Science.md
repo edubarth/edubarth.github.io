@@ -7,7 +7,7 @@ description: Desafios realizados durante o curso de Data Science
 
 # AceleraDev Data Science
 
-Irei disponibilizar neste repositório os desafios feitos no AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
+Irei disponibilizar aqui os desafios realizados no AceleraDev Data Science, oferecido pela [Codenation](https://www.codenation.dev/).
 
 Lista de desafios:
 
