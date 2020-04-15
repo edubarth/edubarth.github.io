@@ -14,4 +14,6 @@ Citar: BARTHOLOMAY, Eduardo Luís. O impacto da inovação no mercado de trabalh
 
 Este trabalho explora o impacto da inovação dos setores industriais brasileiros no mercado de trabalho. Esta literatura é abordada internacionalmente quanto nacionalmente, com resultados ambíguos. A metodologia é baseada no uso de dados em painel obtidos na PINTEC (Pesquisa de Inovação), usando o modelo de binomial negativa com efeito fixo para mensurar o impacto do gasto com inovação na quantidade de pessoal ocupado, na quantidade de trabalhadores com ensino fundamental completo, médio incompleto, médio completo, superior incompleto e superior completo, e na relação de gênero. Portanto, o objetivo é obter evidencias empíricas a cerca deste impacto, além de verificar também a existência de viés de qualificação da inovação. Os resultados indicam que a inovação tem um impacto positivo, e estatisticamente significativo, no mercado de trabalho, expandindo os postos de trabalho, porém um efeito negativo para trabalhadores com ensino fundamental completo. A relação entre inovação e trabalhadores mulheres é positiva, apesar de setores de alta tecnologia terem uma aversão maior a mulheres do que a homens.
 
+<p class="text-center">
+{% include elements/button.html link="https://drive.google.com/open?id=1uejljoSl0xn0P1uXhSqvYDgisdb4WCZn" text="PDF" %}
 
