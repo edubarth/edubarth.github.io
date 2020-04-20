@@ -19,6 +19,6 @@ Olá, me chamo **{{ site.author.name }}** :wave:,<br>
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Educação"%}
-{% include about/sumario.html title="Sumário%}
+{% include about/timeline.html title="Educação" %}
+{% include about/sumario.html title="Sumário" %}
 </div>
