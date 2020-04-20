@@ -11,8 +11,8 @@ Irei disponibilizar aqui os desafios realizados no AceleraDev Data Science, ofer
 
 Lista de desafios:
 
-[Desafio 1](https://github.com/edubarth/Codenation/blob/master/desafio_1.ipynb) -> Pré-processamento de dados em Python
+<a href="https://github.com/edubarth/Codenation/blob/master/desafio_1.ipynb" target="_blank">Desafio 1</a> -> Pré-processamento de dados em Python
 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/edubarth/Codenation" text="Repositório" %}
+{% include elements/button.html link="https://github.com/edubarth/Codenation" target="_blank" text="Repositório" %}
