@@ -2,7 +2,7 @@
 layout: page
 title: Experiência
 permalink: /experiencia/
-weight: 1
+weight: 3
 ---
 
 # **Experiência**
