@@ -20,5 +20,5 @@ Olá, me chamo **{{ site.author.name }}** :wave:,<br>
 
 <div class="row">
 {% include about/timeline.html %}
-{}
+{% include experiencia/experiencia.html %}
 </div>
