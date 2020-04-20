@@ -1,31 +1,35 @@
+- name: Economia
+  percentage: 80
+  color: success
+
 - name: Data Scientist
-  percentage: 90
+  percentage: 50
   color: dark
 
 - name: Data Analyst
-  percentage: 90
+  percentage: 70
   color: secondary
 
 - name: Análise de dados
-  percentage: 90
+  percentage: 70
   color: info
 
 - name: Raciocínio Lógico
-  percentage: 90
+  percentage: 70
   color: success
   
 - name: Metodologia Científica
-  percentage: 90
+  percentage: 80
   color: danger
   
-- name: Fundamentos em matemática
-  percentage: 90
+- name: Matemática
+  percentage: 75
   color: warning
   
 - name: Econometria
-  percentage: 90
+  percentage: 80
   color: info
   
 - name: Estatística
-  percentage: 90
+  percentage: 65
   color: 1da1f2
