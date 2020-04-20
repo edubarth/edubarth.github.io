@@ -1,7 +1,7 @@
 ---
 name: Prevendo as notas de matemática do ENEM
 tools: [Python, Random Forest]
-image: https://enem2020inep.com.br/wp-content/uploads/nota-enem.jpg
+image: https://unihorizontes.br/wp-content/uploads/2020/01/resultado_enem-800x500.png
 description: Modelos utilizados -> Random Forest; AdaBoost; Regressão Linear; Decision Trees
 ---
 
