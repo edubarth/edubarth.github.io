@@ -13,6 +13,10 @@ Lista de desafios:
 
 <a href="https://github.com/edubarth/Codenation/blob/master/desafio_1.ipynb" target="_blank">Desafio 1</a> -> Pré-processamento de dados em Python
 
+<a href="https://github.com/edubarth/Codenation/blob/master/desafio_2.ipynb" target="_blank">Desafio 2</a> -> Conhecendo sua base de consumidores: qual estado possui a melhor pontuação de crédito?
+
+<a href="https://github.com/edubarth/Codenation/blob/master/desafio_3.ipynb" target="_blank">Desafio 3</a> -> Funções de probabilidade
+
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/edubarth/Codenation" target="_blank" text="Repositório" %}
