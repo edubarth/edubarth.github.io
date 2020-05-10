@@ -1,5 +1,5 @@
 ---
-title: Pesquisador; iGV Controller F&L
+title: Pesquisador
 empresa: PEGAT - UFRGS
 local: Porto Alegre, RS
 from: JAN, 2020
