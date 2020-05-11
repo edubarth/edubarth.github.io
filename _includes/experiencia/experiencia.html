@@ -11,8 +11,10 @@
           <p> {{ item.description }} </p>
           <p> <b>Ferramentas:</b> <i>{{ item.ferramentas }}</i> </p>
           <p>
-          {%- for tools in item -%}
-            <span class="badge badge-pill text-primary border border-primary ml-1">{{ item.tools }}</span>
+          {%- for item in site.data.experiencia -%}
+            {%- for tools in item -%}
+              <span class="badge badge-pill text-primary border border-primary ml-1">{{ item.tools }}</span>
+            {%- endfor -%}
           {%- endfor -%}
           </p>
         </div>
