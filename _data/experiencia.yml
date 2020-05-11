@@ -8,10 +8,10 @@
   description: Desenvolvo a área de Economia Política, através do uso de modelos de Machine Learning (data mining, web scraping, forecasting, ...) e de Teoria dos Jogos (Jogo sequencial, estratégias puras, ...). O objetivo é identificar o comportamento dos políticos aos incentivos propostos. 
   ferramentas: Python; R Studio; Excel; Overleaf.
   tools: 
-    - Python
-    - R Studio
-    - Excel
-    - Overleaf
+    tool: Python
+    tool: R Studio
+    tool: Excel
+    tool: Overleaf
 
   
 - title: iGV Controller F&L
@@ -24,8 +24,8 @@
   description: Organização da área de finanças, realizando o planejamento e a análise das tarefas; Criação de processos eficientes; Formação de líderes capazes de contribuir para um mundo mais sustentável e igualitário.
   ferramentas: Excel; Slack.
   tools: 
-    - Excel
-    - Slack
+    tool: Excel
+    tool: Slack
 
 - title: Bolsa de Pesquisa - CNPq
   empresa: Núcleo Universitário de Pesquisas Econômicas - UFPel 
@@ -37,6 +37,6 @@
   description: Durante minha experiência no Núcleo Universitário de Pesquisas Econômicas (NUPE), realizei a elaboração, interpretação e análise de banco de dados; Auxiliei na produção de pesquisa científica, voltada para a área da Economia da Inovação, Economia do Trabalho, Economia do Esporte e Análise de Políticas Públicas.
   ferramentas: Excel; R Studio; Stata.
   tools:
-    - Excel
-    - R Studio
-    - Stata
+    tool: Excel
+    tool: R Studio
+    tool: Stata
