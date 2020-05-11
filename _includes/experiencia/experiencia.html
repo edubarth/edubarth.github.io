@@ -10,10 +10,7 @@
           <a href= "{{item.link}}" target="_blank"> {{item.site}} </a>
           <p> {{ item.description }} </p>
           <p> <b>Ferramentas:</b> <i>{{ item.ferramentas }}</i> </p>
-          <p>
-          {%- for item in site.data.experiencia -%}
-              <span class="badge badge-pill text-primary border border-primary ml-1">{{ item.tools }}</span>
-          {%- endfor -%}
+          <p><span class="badge badge-pill text-primary border border-primary ml-1">{{ item.tools }}</span>
           </p>
         </div>
       </div>
