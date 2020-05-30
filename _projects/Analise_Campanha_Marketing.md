@@ -2,7 +2,7 @@
 name: Análise de Campanha de Marketing
 tools: [Python, Classification models, Machine Learning, Segmentation]
 image: https://conteudo.imguol.com.br/c/noticias/0b/2020/01/25/ifood-uber-eats-rappi-delivery-entrega-app-celular-1579961057857_v2_1920x1080.png
-description: Modelos utilizados -> Solução do case utilizado para participar do processo de seleção de Data Analsyst no iFood.
+description: Solução do case utilizado para participar do processo de seleção de Data Analsyst no iFood.
 ---
 
 # iFood Data Business Analyst Test
