@@ -22,10 +22,9 @@ Essa foi a minha solução do case utilizado para participar do processo de sele
 
 > [Banco de dados](https://github.com/edubarth/Analise_Campanha_Marketing/blob/master/ml_project1_data.csv)
 
-Qualquer dúvida ou sugestão podem entrar em contato comigo pelo e-mail "elbartholomay@gmail.com".<br><br>
+Qualquer dúvida ou sugestão podem entrar em contato comigo pelo e-mail "[elbartholomay@gmail.com](elbartholomay@gmail.com)".<br><br>
 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/edubarth/Analise_Campanha_Marketing" text="Repositório" %}
 {% include elements/button.html link="https://github.com/edubarth/Analise_Campanha_Marketing/blob/master/iFood-DADArq-Case-Solution-Eduardo-Luis-Bartholomay.pdf" text="PDF Solução" %}
 </p>
