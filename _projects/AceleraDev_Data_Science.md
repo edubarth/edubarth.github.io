@@ -11,23 +11,6 @@ Irei disponibilizar aqui os desafios realizados no AceleraDev Data Science, ofer
 
 Lista de desafios:
 
-[Desafio 1]() -> Pré-processamento de dados em Python
-
-[Desafio 2]() -> Conhecendo sua base de consumidores: qual estado possui a melhor pontuação de crédito?
-
-[Desafio 3]() -> Funções de probabilidade I
-
-[Desafio 4]() -> Funções de probabilidade II
-
-[Desafio 5]() -> Redução de dimensionalidade e seleção de variáveis
-
-[Desafio 6](https://github.com/edubarth/Codenation/blob/master/desafio_6/desafio_6.ipynb) -> 
-
-[Desafio 7](https://github.com/edubarth/Codenation/blob/master/desafio_7/desafio_7.ipynb) -> 
-
-[Desafio 8](https://github.com/edubarth/Codenation/blob/master/desafio_8/desafio_8.ipynb) -> 
-
-
 <a href="https://github.com/edubarth/Codenation/blob/master/desafio_1/desafio_1.ipynb" target="_blank">Desafio 1</a> -> Pré-processamento de dados em Python
 
 <a href="https://github.com/edubarth/Codenation/blob/master/desafio_2/desafio_2.ipynb" target="_blank">Desafio 2</a> -> Conhecendo sua base de consumidores: qual estado possui a melhor pontuação de crédito?
