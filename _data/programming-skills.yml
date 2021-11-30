@@ -4,7 +4,7 @@
 
 - name: Python
   percentage: 70
-  color:
+  color: green
 
 - name: R Studio
   percentage: 60
