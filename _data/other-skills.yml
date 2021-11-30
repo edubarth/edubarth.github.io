@@ -6,10 +6,6 @@
   percentage: 70
   color: dark
 
-- name: Data Analyst
-  percentage: 70
-  color: secondary
-
 - name: Análise de dados
   percentage: 70
   color: info
