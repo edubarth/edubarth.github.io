@@ -3,7 +3,7 @@
   color: success
 
 - name: Data Scientist
-  percentage: 50
+  percentage: 70
   color: dark
 
 - name: Data Analyst
@@ -31,5 +31,5 @@
   color: info
   
 - name: Estatística
-  percentage: 65
+  percentage: 75
   color: 1da1f2
