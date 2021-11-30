@@ -8,7 +8,7 @@ description: Este trabalho procurou levantar o questionamento a respeito do impa
 
 Autores: Ricardo Dahis; Eduardo Luís Bartholomay.
 
-Citar: Dahis, Ricardo. BARTHOLOMAY, Eduardo Luís.A covid-19 acabou com o ‘efeito mandante’ no Brasileirão?. Jornal Nexo, São Paulo. 
+Citar: DAHIS, Ricardo. BARTHOLOMAY, Eduardo Luís.A covid-19 acabou com o ‘efeito mandante’ no Brasileirão?. Jornal Nexo, São Paulo. 
 
 ## Resumo
 
