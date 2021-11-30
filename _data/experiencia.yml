@@ -1,11 +1,33 @@
+- title: Analista de Pricing
+  empresa: Lojas Quero-Quero
+  local: Cachoeirinha, RS
+  from: JUN, 2021
+  to: Atual
+  link: https://ri.quero-quero.com.br/a-companhia/quem-somos/
+  site: Lojas Quero-Quero
+  description: Sou responsável pela área de precificação. Auxilio buscando oportunidades para reajuste de preços. Apresento análises de desempenho das áreas, por meio de previsão de vendas futuras, alavancagem e mensuração da margem bruta.
+  ferramentas: Python; Excel; PostgreSQL.
+  tools: [Python, Excel, PostgreSQL]
+
+- title: Trainee - Deal Advisory
+  empresa: KPMG Brasil
+  local: São Paulo, SP
+  from: ABR, 2021
+  to: JUN, 2021
+  link: https://home.kpmg/br/pt/home.html
+  site: KPMG Brasil
+  description: Auxiliei na área de securitização, elaborando relatórios com análises dos dados fornecidos, afim de identificar a performance dos fundos de investimento. Desenvolvi, utilizando Python, métodos para automatizar processos repetitivos. 
+  ferramentas: Python; Excel; Power BI.
+  tools: [Python, Excel, Power BI]
+
 - title: Pesquisador
   empresa: PEGAT - UFRGS
   local: Porto Alegre, RS
   from: JAN, 2020
-  to: Atual
+  to: ABR, 2021
   link: https://sites.google.com/view/pegat
   site: PEGAT
-  description: Desenvolvo a área de Economia Política, através do uso de modelos de Machine Learning (data mining, web scraping, forecasting, ...) e de Teoria dos Jogos (Jogo sequencial, estratégias puras, ...). O objetivo é identificar o comportamento dos políticos aos incentivos propostos. 
+  description: Desenvolvi a área de Economia Política, através do uso de modelos de Machine Learning (data mining, web scraping, forecasting, ...) e de Teoria dos Jogos (Jogo sequencial, estratégias puras, ...). O objetivo é identificar o comportamento dos políticos aos incentivos propostos. 
   ferramentas: Python; R Studio; Excel; Overleaf.
   tools: [Python, R Studio, Excel, Overleaf]
 
