@@ -1,11 +1,22 @@
+- title: Consultor Pleno Data Tax Analitycs
+  empresa: KPMG Brasil
+  local: Porto Alegre, RS
+  from: JAN, 2022
+  to: ATUAL
+  link: https://home.kpmg/br/pt/home.html
+  site: KPMG Brasil
+  description: Realizo a exploração dos dados relacionados a impostos disponibilizado pelos clientes e, assim, busco por oportunidades tributárias; Utilizo principalmente Alteryx para elaborar os fluxos que geram, de forma automatizada, os documentos necessários; Criei uma ferramenta, em Python, para ler e quebrar PDF.
+  ferramentas: Alteryx; Python; Excel; SQL.
+  tools: [Alteryx, Python, Excel, SQL]
+
 - title: Analista de Pricing
   empresa: Lojas Quero-Quero
   local: Cachoeirinha, RS
   from: JUN, 2021
-  to: Atual
+  to: DEZ, 2021
   link: https://ri.quero-quero.com.br/a-companhia/quem-somos/
   site: Lojas Quero-Quero
-  description: Sou responsável pela área de precificação. Auxilio buscando oportunidades para reajuste de preços. Apresento análises de desempenho das áreas, por meio de previsão de vendas futuras, alavancagem e mensuração da margem bruta.
+  description: Fui responsável pela área de precificação. Auxiliei buscando oportunidades para reajuste de preços. Apresentava análises de desempenho das áreas, por meio de previsão de vendas futuras, alavancagem e mensuração da margem bruta.
   ferramentas: Python; Excel; PostgreSQL.
   tools: [Python, Excel, PostgreSQL]
 
