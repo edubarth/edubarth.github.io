@@ -10,6 +10,10 @@
   percentage: 60
   color: dark
   
+- name: Alteryx
+  percentage: 80
+  color: blue
+  
 - name: Stata
   percentage: 90
   color: info
