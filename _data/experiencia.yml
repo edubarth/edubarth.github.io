@@ -1,11 +1,22 @@
+- title: Especialista BI
+  empresa: SENAI Tecnologia e Inovação
+  local: Porto Alegre, RS
+  from: JUN, 2023
+  to: Atual
+  link: https://home.kpmg/br/pt/home.html
+  site: KPMG Brasil
+  description: Faço parta de equipe de dados da Gerenência de Desenvolvimento de Negócios em Tecnologia, onde realizo estudos de mercado, construo relatórios e dashboards gerênciais, sou responsável pela curadoria dos dados, além de aplicar metodologias para Forecasting Technology Innovation.
+  ferramentas: Power BI; Python; Excel; SQL; R; Power Automate; Lists; Sharepoint.
+  tools: [Alteryx, Python, Excel, SQL; R; Power Automate; Lists; Sharepoint]
+
 - title: Consultor Pleno Data Tax Analitycs
   empresa: KPMG Brasil
   local: Porto Alegre, RS
   from: JAN, 2022
-  to: ATUAL
+  to: JUN, 2023
   link: https://home.kpmg/br/pt/home.html
   site: KPMG Brasil
-  description: Realizo a exploração dos dados relacionados a impostos disponibilizado pelos clientes e, assim, busco por oportunidades tributárias; Utilizo principalmente Alteryx para elaborar os fluxos que geram, de forma automatizada, os documentos necessários; Criei uma ferramenta, em Python, para ler e quebrar PDF.
+  description: Realizava a exploração dos dados relacionados a impostos disponibilizado pelos clientes e, assim, busco por oportunidades tributárias; Utilizava principalmente Alteryx para elaborar os fluxos que geram, de forma automatizada, os documentos necessários; Criei uma ferramenta, em Python, para ler e quebrar PDF.
   ferramentas: Alteryx; Python; Excel; SQL.
   tools: [Alteryx, Python, Excel, SQL]
 
